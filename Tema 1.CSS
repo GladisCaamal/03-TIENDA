@@ -1,0 +1,61 @@
+html{
+    font-family: 'Lobster', cursive;
+}
+
+body {
+      margin: 0%;
+      background-color: rgb(169, 224, 255) ;
+      text-align: center;
+}
+
+p  {
+    color: #0f1129;
+}
+
+header {
+  background-color: #161729;
+  color: #cddaf7;
+  padding: 2rem 1rem;
+}
+
+header h1{
+   font-size: 6rem;
+   text-align: center;
+}
+
+h2 {
+  font-size: 2.1rem;
+  color: #2c1fc4;
+}
+
+h4 {
+   color: #018a77;
+   font-size: 40px;
+}
+
+header h3{
+    color: #cddaf7;
+    font-size: 2rem;
+    text-align: center
+}
+
+section {
+    background-color: #e5ecf8;
+    border-radius: 60px;
+    padding: 20px 0px;
+    margin: 20px;
+}
+
+nav{
+  background-color: #ecc455;
+  height: 60px;
+}
+nav ul li{
+   float:left;
+   margin: 20px;
+   list-style: none;
+}
+
+.clearfix  {
+    clear: both;
+}
